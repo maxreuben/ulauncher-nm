@@ -12,7 +12,7 @@
       "id": "nm",
       "type": "keyword",
       "name": "nm - List all profiles",
-      "description": "Quick access to all NM profiles & settings",
+      "description": "Quick access to all NM profiles \& settings",
       "default_value": "nm"
     },
     {
